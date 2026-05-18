@@ -1,6 +1,6 @@
 # 🎨   AidBridge Frontend
 
- AidBridge js a decentralized donation platform built on Stellar. This interface enables users to donate to NGOs, track transactions transparently, and participate in volunteer activities with reward incentives.
+ AidBridge is a decentralized donation platform built on Stellar. This interface enables users to donate to NGOs, track transactions transparently, and participate in volunteer activities with reward incentives.
 
 ---
 
