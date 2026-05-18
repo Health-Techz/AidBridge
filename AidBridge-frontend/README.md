@@ -1,12 +1,12 @@
-# 🎨 StellarAid Frontend
+# 🎨   AidBridge Frontend
 
-StellarAid, a decentralized donation platform built on Stellar. This interface enables users to donate to NGOs, track transactions transparently, and participate in volunteer activities with reward incentives.
+ AidBridge js a decentralized donation platform built on Stellar. This interface enables users to donate to NGOs, track transactions transparently, and participate in volunteer activities with reward incentives.
 
 ---
 
 ## 📌 Overview
 
-StellarAid’s frontend delivers a simple and accessible user experience for interacting with blockchain-powered donations.
+ AidBridge  frontend delivers a simple and accessible user experience for interacting with blockchain-powered donations.
 
 Users can:
 
