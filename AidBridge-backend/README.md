@@ -1,4 +1,4 @@
-# 🌍 StellarAid — Decentralized Donation & Impact Protocol
+# 🌍 AidBridge — Decentralized Donation & Impact Protocol
 
 A production-ready, blockchain-powered platform for transparent NGO funding, built on the Stellar network, with verifiable impact, decentralized incentives, and on-chain accountability.
 
@@ -6,7 +6,7 @@ A production-ready, blockchain-powered platform for transparent NGO funding, bui
 
 ## 📌 Overview
 
-StellarAid combines Web2 usability with true Web3 decentralization to create a trust-first global donation infrastructure.
+ AidBridge  combines Web2 usability with true Web3 decentralization to create a trust-first global donation infrastructure.
 
 Donors send funds directly to NGOs using Stellar (XLM), with every transaction recorded on-chain. Volunteers contribute to real-world impact and receive verifiable rewards in the form of tokens and NFTs. The system is designed to eliminate opacity, reduce fraud, and build global trust in charitable giving.
 
